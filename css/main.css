@@ -93,11 +93,15 @@ footer {
 	}
 
 	#column-3 {
-		background-color: aquamarine;
+		background-color: rgb(180, 255, 127);
+		width: 100%;
 	}
 
 	footer {
 		background-color: rgb(58, 43, 172);
+	}
+	.col-3 {
+		width: 50%;
 	}
 }
 
@@ -117,9 +121,14 @@ footer {
 
 	#column-3 {
 		background-color: chocolate;
+		width: 33.3%;
 	}
 
 	footer {
 		background-color: coral;
+	}
+
+	.col-3 {
+		width: 33.3%;
 	}
 }
